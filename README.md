@@ -6,10 +6,12 @@ Prerequisites
 - PostgreSQL installed and running locally (Update your credentials in
   src/main/resources/application.properties)
 
+
 Getting Started
-1. Navigate to ohs-backend-developer-exercise
-2. Run: mvn clean spring-boot:run
-3. Swagger API docs runs at http://localhost:8080/swagger-ui/index.html
+1. Clone the project from github: https://github.com/JoshuaBarawa/OHS-Digital-Health-Backend-Exercise.git
+2. Navigate to ohs-backend-developer-exercise
+3. Run: mvn clean spring-boot:run
+4. Swagger API docs runs at http://localhost:8080/swagger-ui/index.html
 
 
 Testing
