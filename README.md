@@ -57,9 +57,6 @@ Run the Spring Boot container:
 
 docker run -p 8080:8080 -e SPRING_DATASOURCE_URL=jdbc:postgresql://host.docker.internal:5432/digital_health -e SPRING_DATASOURCE_USERNAME=your_username -e SPRING_DATASOURCE_PASSWORD=your_password ohs-backend-developer-exercise
 
-
-docker run -p 8080:8080 -e SPRING_DATASOURCE_URL=jdbc:postgresql://host.docker.internal:5432/digital_health -e SPRING_DATASOURCE_USERNAME=your_username -e SPRING_DATASOURCE_PASSWORD=your_password barawa/ohs-backend-developer-exercise:1.0.0
-
 Access the app:
 
 http://localhost:8080/swagger-ui/index.html
