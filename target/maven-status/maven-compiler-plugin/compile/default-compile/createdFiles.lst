@@ -9,8 +9,10 @@ org/example/patient/entity/Patient$Gender.class
 org/example/patient/controller/EncounterController.class
 org/example/patient/service/PatientService.class
 org/example/patient/service/ObservationService.class
+org/example/patient/models/ApiResponse.class
 org/example/patient/controller/PatientController.class
 org/example/patient/models/PatientDTO.class
+org/example/patient/exceptions/GlobalExceptionHandler.class
 org/example/patient/entity/Patient.class
 org/example/patient/service/EncounterService.class
 org/example/patient/models/ObservationDTO.class
